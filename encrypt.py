@@ -1,7 +1,7 @@
 import getpass #to hide the keyword when enter
 
 print('~Playfair Cipher Encrypter~') #title
- 
+
 text = input('暗号化するテキストを入力：') #get the text
 print('入力されたテキスト【'+text+'】') #text check
 
