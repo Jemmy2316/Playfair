@@ -1,7 +1,7 @@
 import getpass
 
 print('~Playfair Cipher Decrypter~')
- 
+
 text = input('復号化するテキストを入力：')
 print('入力されたテキスト【'+text+'】')
 
